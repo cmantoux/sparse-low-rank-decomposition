@@ -1,0 +1,5 @@
+Best parameters for V^M:
+mu    = 2.733
+nu    = 0.669
+
+Average relative RMSE for the deviations V = 0.489929698311877 +/- 0.019241473301845623

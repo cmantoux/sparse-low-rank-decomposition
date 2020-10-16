@@ -1,0 +1,304 @@
+===== Training step 1 =====
+Parameters: {'lambd': 5.928446182250184, 'rho': 8.442657485810175, 'mu': 8.57945617622757, 'nu': 8.472517387841256}
+Total training relative RMSE: 5.0
+===== Training step 2 =====
+Parameters: {'lambd': 6.235636967859724, 'rho': 3.843817072926999, 'mu': 2.9753460654447235, 'nu': 0.5671297731744319}
+Total training relative RMSE: 2.3651540449155366
+===== Training step 3 =====
+Parameters: {'lambd': 2.7265629458011325, 'rho': 4.7766511732135, 'mu': 8.121687287754932, 'nu': 4.799771723750574}
+Total training relative RMSE: 5.0
+===== Training step 4 =====
+Parameters: {'lambd': 3.927847961008298, 'rho': 8.360787635373777, 'mu': 3.3739616041726843, 'nu': 6.4817187205119735}
+Total training relative RMSE: 5.0
+===== Training step 5 =====
+Parameters: {'lambd': 3.6824153984054804, 'rho': 9.571551589530465, 'mu': 1.4035078041264517, 'nu': 8.700872583584365}
+Total training relative RMSE: 5.0
+===== Training step 6 =====
+Parameters: {'lambd': 4.736080452737106, 'rho': 8.009107519796444, 'mu': 5.20477479551205, 'nu': 6.788795301189604}
+Total training relative RMSE: 5.0
+===== Training step 7 =====
+Parameters: {'lambd': 7.206326547259168, 'rho': 5.820197920751072, 'mu': 5.373732294490107, 'nu': 7.586156243223574}
+Total training relative RMSE: 5.0
+===== Training step 8 =====
+Parameters: {'lambd': 1.0590760718779215, 'rho': 4.736004193466575, 'mu': 1.8633234332675999, 'nu': 7.369181771289583}
+Total training relative RMSE: 5.0
+===== Training step 9 =====
+Parameters: {'lambd': 2.165503544243719, 'rho': 1.3521817340545208, 'mu': 3.2414100779321413, 'nu': 1.496748671836832}
+Total training relative RMSE: 4.9760886330860465
+===== Training step 10 =====
+Parameters: {'lambd': 2.2232138825158767, 'rho': 3.86488981125862, 'mu': 9.025984755294049, 'nu': 4.499499899112276}
+Total training relative RMSE: 5.0
+===== Training step 11 =====
+Parameters: {'lambd': 6.130634578841325, 'rho': 0.9887699263551288, 'mu': 2.330621524241411, 'nu': 1.3099717800047619}
+Total training relative RMSE: 4.880323473374391
+===== Training step 12 =====
+Parameters: {'lambd': 9.179918428576263, 'rho': 2.4888755122326813, 'mu': 2.979108024122889, 'nu': 0.24256829805092367}
+Total training relative RMSE: 3.4147035791688474
+===== Training step 13 =====
+Parameters: {'lambd': 7.343296089418624, 'rho': 3.5495511994096223, 'mu': 2.6816166042753515, 'nu': 0.718703884905484}
+Total training relative RMSE: 1.6564689699051511
+===== Training step 14 =====
+Parameters: {'lambd': 8.606519552101993, 'rho': 3.374565843022435, 'mu': 2.608314693730949, 'nu': 0.41958872416656307}
+Total training relative RMSE: 3.067120041820557
+===== Training step 15 =====
+Parameters: {'lambd': 9.43105378947405, 'rho': 3.4297173222806983, 'mu': 2.2341902775078775, 'nu': 0.6710223304012198}
+Total training relative RMSE: 2.3924845836454836
+===== Training step 16 =====
+Parameters: {'lambd': 6.903606725197968, 'rho': 3.902085996830241, 'mu': 1.4417382281971294, 'nu': 0.7851511779738719}
+Total training relative RMSE: 2.4384419525185113
+===== Training step 17 =====
+Parameters: {'lambd': 6.9501433961402075, 'rho': 7.062618761428832, 'mu': 1.8796521498640422, 'nu': 0.8665151113900517}
+Total training relative RMSE: 1.6188888586468946
+===== Training step 18 =====
+Parameters: {'lambd': 6.715013720468437, 'rho': 8.927942850206204, 'mu': 1.8660306505791926, 'nu': 0.8526173699762619}
+Total training relative RMSE: 2.5798379800576785
+===== Training step 19 =====
+Parameters: {'lambd': 6.830497855549747, 'rho': 9.766010221533927, 'mu': 0.8631473768733567, 'nu': 1.050886901062277}
+Total training relative RMSE: 3.268842915808057
+===== Training step 20 =====
+Parameters: {'lambd': 7.221227309198156, 'rho': 7.848458739457882, 'mu': 5.2389566533232, 'nu': 0.8553902631592937}
+Total training relative RMSE: 3.6707040492065732
+===== Training step 21 =====
+Parameters: {'lambd': 7.086499469037505, 'rho': 3.033126542459272, 'mu': 1.1375018237192949, 'nu': 0.7768198643680936}
+Total training relative RMSE: 2.829753276154725
+===== Training step 22 =====
+Parameters: {'lambd': 7.112121528947854, 'rho': 3.700396304649734, 'mu': 3.9747765569037203, 'nu': 1.0026473548813954}
+Total training relative RMSE: 4.399863985268693
+===== Training step 23 =====
+Parameters: {'lambd': 6.13480948486446, 'rho': 3.633453523990165, 'mu': 2.4969865385319836, 'nu': 0.7677549188432965}
+Total training relative RMSE: 1.4961832026003412
+===== Training step 24 =====
+Parameters: {'lambd': 6.151374072186763, 'rho': 2.286710167742066, 'mu': 2.6678953977435853, 'nu': 0.6565154234193294}
+Total training relative RMSE: 2.094451178696302
+===== Training step 25 =====
+Parameters: {'lambd': 5.367183551230205, 'rho': 3.9560909588693023, 'mu': 2.3264649070777312, 'nu': 0.7956473852078728}
+Total training relative RMSE: 1.4657116989394243
+===== Training step 26 =====
+Parameters: {'lambd': 4.614980947036815, 'rho': 4.157334934460271, 'mu': 2.240377886992127, 'nu': 0.7338033812360679}
+Total training relative RMSE: 1.9538352923726443
+===== Training step 27 =====
+Parameters: {'lambd': 0.710344807391803, 'rho': 3.9516076350446223, 'mu': 2.465597556563858, 'nu': 0.7590655101378064}
+Total training relative RMSE: 1.601815375436985
+===== Training step 28 =====
+Parameters: {'lambd': 4.023518687567489, 'rho': 4.317699941734394, 'mu': 2.4081684902162728, 'nu': 0.6870854032254105}
+Total training relative RMSE: 2.146678913408672
+===== Training step 29 =====
+Parameters: {'lambd': 1.333624572647342, 'rho': 4.150138981240721, 'mu': 2.4226410549953896, 'nu': 0.7755724869349346}
+Total training relative RMSE: 1.5334788194838054
+===== Training step 30 =====
+Parameters: {'lambd': 1.135988077346726, 'rho': 4.358178313515902, 'mu': 2.744224452779273, 'nu': 0.8107430828384666}
+Total training relative RMSE: 1.542331846257509
+===== Training step 31 =====
+Parameters: {'lambd': 0.8507197826586622, 'rho': 5.107260728595926, 'mu': 2.8827566102880757, 'nu': 0.8308900888095573}
+Total training relative RMSE: 1.7871876428931346
+===== Training step 32 =====
+Parameters: {'lambd': 0.3027960527358265, 'rho': 4.835103592183662, 'mu': 2.3956152315282755, 'nu': 0.9555775534525026}
+Total training relative RMSE: 3.2011439681479095
+===== Training step 33 =====
+Parameters: {'lambd': 1.3055902530642485, 'rho': 4.046488193262208, 'mu': 4.279964245689684, 'nu': 0.6942629962334724}
+Total training relative RMSE: 1.5446777426788683
+===== Training step 34 =====
+Parameters: {'lambd': 1.5379389183968075, 'rho': 3.486249718375816, 'mu': 4.383918333034492, 'nu': 0.6808967451504545}
+Total training relative RMSE: 1.51971060320438
+===== Training step 35 =====
+Parameters: {'lambd': 1.3410675920616446, 'rho': 3.6551889406259725, 'mu': 4.365610244806947, 'nu': 0.6326064862685089}
+Total training relative RMSE: 1.3970860695636813
+===== Training step 36 =====
+Parameters: {'lambd': 0.9940227160758632, 'rho': 3.7073707757153023, 'mu': 4.967807612433926, 'nu': 0.6919146600065519}
+Total training relative RMSE: 1.8612368686269105
+===== Training step 37 =====
+Parameters: {'lambd': 1.1520103220819757, 'rho': 3.7585709750361227, 'mu': 5.368601816199485, 'nu': 0.44839809195463715}
+Total training relative RMSE: 1.6013855714187417
+===== Training step 38 =====
+Parameters: {'lambd': 1.3329956250587118, 'rho': 3.5730716768049593, 'mu': 6.790342486755794, 'nu': 0.3706035479577608}
+Total training relative RMSE: 1.449143144547067
+===== Training step 39 =====
+Parameters: {'lambd': 1.4789389663094301, 'rho': 3.1588081201059977, 'mu': 6.250427062616643, 'nu': 0.5033301298350358}
+Total training relative RMSE: 1.427101718202422
+===== Training step 40 =====
+Parameters: {'lambd': 1.578775811985881, 'rho': 3.7857095602156674, 'mu': 8.371523467301417, 'nu': 0.6223417948957267}
+Total training relative RMSE: 3.023698350878866
+===== Training step 41 =====
+Parameters: {'lambd': 1.3073781587954327, 'rho': 0.4148317797766166, 'mu': 4.894464458711597, 'nu': 0.06766439217561483}
+Total training relative RMSE: 2.643475731781158
+===== Training step 42 =====
+Parameters: {'lambd': 1.387291136545671, 'rho': 4.984811586897666, 'mu': 8.065154921979595, 'nu': 0.10273167520795436}
+Total training relative RMSE: 3.5072731919563376
+===== Training step 43 =====
+Parameters: {'lambd': 1.6495685978810817, 'rho': 0.46644318946395874, 'mu': 4.255043567438369, 'nu': 0.709756465419923}
+Total training relative RMSE: 1.707351894480424
+===== Training step 44 =====
+Parameters: {'lambd': 1.2845737695871597, 'rho': 0.7335387174990505, 'mu': 4.2836156946317425, 'nu': 0.690605221125591}
+Total training relative RMSE: 1.6002166280122083
+===== Training step 45 =====
+Parameters: {'lambd': 1.7263718725640866, 'rho': 1.6980679290155711, 'mu': 2.5779930824906168, 'nu': 0.7514980652998816}
+Total training relative RMSE: 1.579561897805219
+===== Training step 46 =====
+Parameters: {'lambd': 1.7064668225808335, 'rho': 2.654410613693638, 'mu': 3.6877034632698407, 'nu': 0.8580165202079849}
+Total training relative RMSE: 2.820713463997295
+===== Training step 47 =====
+Parameters: {'lambd': 1.3325184253073654, 'rho': 1.5264246440033538, 'mu': 1.901006028525795, 'nu': 0.5129332207013338}
+Total training relative RMSE: 3.014254509172773
+===== Training step 48 =====
+Parameters: {'lambd': 0.814050630820541, 'rho': 3.5334678733900122, 'mu': 8.619203214117666, 'nu': 0.7586084005135819}
+Total training relative RMSE: 4.208929334344397
+===== Training step 49 =====
+Parameters: {'lambd': 0.4377421075172517, 'rho': 3.023653429480892, 'mu': 6.4282824277964155, 'nu': 0.699810968539576}
+Total training relative RMSE: 2.7924003011378495
+===== Training step 50 =====
+Parameters: {'lambd': 2.8329642854591146, 'rho': 0.4723413947291889, 'mu': 3.1732859555346464, 'nu': 0.8041646437757745}
+Total training relative RMSE: 1.8092476318257122
+===== Training step 51 =====
+Parameters: {'lambd': 1.4875799428684435, 'rho': 4.019802866197263, 'mu': 6.596797400360642, 'nu': 0.6246795820219232}
+Total training relative RMSE: 2.175281558483943
+===== Training step 52 =====
+Parameters: {'lambd': 1.371911337853642, 'rho': 9.632050346288782, 'mu': 4.334290522816524, 'nu': 0.8246040731821637}
+Total training relative RMSE: 2.7175860575861184
+===== Training step 53 =====
+Parameters: {'lambd': 2.4909651140077895, 'rho': 0.7039228248463659, 'mu': 3.997185470427057, 'nu': 0.8009822340289664}
+Total training relative RMSE: 2.37631213709692
+===== Training step 54 =====
+Parameters: {'lambd': 2.275969830956507, 'rho': 3.629482155078356, 'mu': 4.407958537651175, 'nu': 0.39553128419679956}
+Total training relative RMSE: 2.297150996764999
+===== Training step 55 =====
+Parameters: {'lambd': 1.6345628658993396, 'rho': 0.8244491232561081, 'mu': 2.327208803670709, 'nu': 0.759163570296857}
+Total training relative RMSE: 1.7563117043700047
+===== Training step 56 =====
+Parameters: {'lambd': 1.2333871975384316, 'rho': 3.879432813394051, 'mu': 4.137365303116612, 'nu': 1.0129116893187298}
+Total training relative RMSE: 4.507790692048616
+===== Training step 57 =====
+Parameters: {'lambd': 1.0577333538625036, 'rho': 6.067414086651823, 'mu': 3.333076561329777, 'nu': 0.7105849832092616}
+Total training relative RMSE: 1.5777316166864637
+===== Training step 58 =====
+Parameters: {'lambd': 1.2053537680245898, 'rho': 5.649602015040117, 'mu': 3.704767883034705, 'nu': 0.6399282500933535}
+Total training relative RMSE: 1.6911954114000112
+===== Training step 59 =====
+Parameters: {'lambd': 1.2919244680505595, 'rho': 3.8369020589558676, 'mu': 3.541409513154425, 'nu': 0.678108159294062}
+Total training relative RMSE: 1.4427024958053227
+===== Training step 60 =====
+Parameters: {'lambd': 2.1573246783176105, 'rho': 3.7442886770788, 'mu': 2.7448253180169697, 'nu': 0.8313861373706145}
+Total training relative RMSE: 1.6988448996784924
+===== Training step 61 =====
+Parameters: {'lambd': 0.3658469325107783, 'rho': 3.5221100511088417, 'mu': 4.021344911083598, 'nu': 0.6569619573471198}
+Total training relative RMSE: 1.407920256549105
+===== Training step 62 =====
+Parameters: {'lambd': 1.9252180360000952, 'rho': 1.7775440072394946, 'mu': 3.324690565772546, 'nu': 0.7536446413286159}
+Total training relative RMSE: 1.497005887632297
+===== Training step 63 =====
+Parameters: {'lambd': 1.2062170965888976, 'rho': 6.0123494119770085, 'mu': 3.9868490467814794, 'nu': 0.7595040162714385}
+Total training relative RMSE: 1.8318598017113765
+===== Training step 64 =====
+Parameters: {'lambd': 2.2940183702976182, 'rho': 0.6977584692850537, 'mu': 2.3953118114961796, 'nu': 0.7796147853504155}
+Total training relative RMSE: 1.5881746232592604
+===== Training step 65 =====
+Parameters: {'lambd': 2.094806595912269, 'rho': 1.1678150427052316, 'mu': 0.6811499329032656, 'nu': 0.6413706390935049}
+Total training relative RMSE: 3.119176332401236
+===== Training step 66 =====
+Parameters: {'lambd': 0.14875492274972982, 'rho': 3.947828921184315, 'mu': 4.411400781456445, 'nu': 0.6768673942417093}
+Total training relative RMSE: 1.519402058594005
+===== Training step 67 =====
+Parameters: {'lambd': 2.1208885414790437, 'rho': 3.5904245239149684, 'mu': 2.7492246637225044, 'nu': 0.877853914705642}
+Total training relative RMSE: 2.285307101138486
+===== Training step 68 =====
+Parameters: {'lambd': 0.9978613307233799, 'rho': 9.291882608168018, 'mu': 4.081115865940019, 'nu': 0.6616385783761426}
+Total training relative RMSE: 3.537840035696855
+===== Training step 69 =====
+Parameters: {'lambd': 1.2463668199543323, 'rho': 4.849138414796521, 'mu': 3.199505581243878, 'nu': 0.7134296187341717}
+Total training relative RMSE: 1.4769109202875295
+===== Training step 70 =====
+Parameters: {'lambd': 0.011716013850718856, 'rho': 4.826482071714843, 'mu': 3.173114750483103, 'nu': 0.8001120370840454}
+Total training relative RMSE: 1.6996971273276587
+===== Training step 71 =====
+Parameters: {'lambd': 0.34479892187415656, 'rho': 4.635745987178533, 'mu': 3.948147258713622, 'nu': 0.74810717520583}
+Total training relative RMSE: 1.7301986640424174
+===== Training step 72 =====
+Parameters: {'lambd': 0.6748819165156018, 'rho': 4.036727763226322, 'mu': 3.644319440251425, 'nu': 0.7962582262132291}
+Total training relative RMSE: 1.9847611923035562
+===== Training step 73 =====
+Parameters: {'lambd': 2.6406583864549544, 'rho': 1.442755509875974, 'mu': 5.819162048580002, 'nu': 0.7527722680756467}
+Total training relative RMSE: 3.0088142066873576
+===== Training step 74 =====
+Parameters: {'lambd': 1.3207700427360283, 'rho': 4.999448310307038, 'mu': 4.12361419422545, 'nu': 0.6965124793474843}
+Total training relative RMSE: 1.5060406401077926
+===== Training step 75 =====
+Parameters: {'lambd': 0.8958506585277849, 'rho': 3.4893897182095897, 'mu': 4.081824750602251, 'nu': 0.7018480195587619}
+Total training relative RMSE: 1.5123761524996957
+===== Training step 76 =====
+Parameters: {'lambd': 5.590626262993685, 'rho': 0.32705767045242645, 'mu': 2.5905644302995983, 'nu': 0.8438973274804052}
+Total training relative RMSE: 1.7585627553358336
+===== Training step 77 =====
+Parameters: {'lambd': 4.947477741331118, 'rho': 0.5571621840126663, 'mu': 2.6895006107437873, 'nu': 0.8321678243663945}
+Total training relative RMSE: 1.7113416218948048
+===== Training step 78 =====
+Parameters: {'lambd': 4.437393972928865, 'rho': 1.1483918855276722, 'mu': 2.730200270976641, 'nu': 0.8394529660042783}
+Total training relative RMSE: 1.7966059749070409
+===== Training step 79 =====
+Parameters: {'lambd': 1.199911851707173, 'rho': 1.8608303072822499, 'mu': 3.4856840940680085, 'nu': 0.7200769668459507}
+Total training relative RMSE: 1.4415549285463747
+===== Training step 80 =====
+Parameters: {'lambd': 5.308600559666254, 'rho': 0.6648950469636384, 'mu': 1.9966917177482784, 'nu': 0.9245960875310556}
+Total training relative RMSE: 2.3276997197175886
+===== Training step 81 =====
+Parameters: {'lambd': 1.1447542525140322, 'rho': 2.419004019378433, 'mu': 2.190190104884614, 'nu': 0.6881726294164615}
+Total training relative RMSE: 2.343130093345422
+===== Training step 82 =====
+Parameters: {'lambd': 0.5900336497144044, 'rho': 1.390261791389277, 'mu': 2.4140694795542443, 'nu': 0.7808105321304805}
+Total training relative RMSE: 1.5689280905681273
+===== Training step 83 =====
+Parameters: {'lambd': 1.1545555860252912, 'rho': 3.996036759555078, 'mu': 4.178740884959763, 'nu': 0.5665027152025949}
+Total training relative RMSE: 1.6226566771000135
+===== Training step 84 =====
+Parameters: {'lambd': 2.1890476819490927, 'rho': 0.8950241544453298, 'mu': 2.5609172236103777, 'nu': 0.7476073311618215}
+Total training relative RMSE: 1.6414936615960962
+===== Training step 85 =====
+Parameters: {'lambd': 1.332693926853972, 'rho': 4.736891172538929, 'mu': 3.1919415002929346, 'nu': 0.8440219273392214}
+Total training relative RMSE: 2.190706275901461
+===== Training step 86 =====
+Parameters: {'lambd': 1.9905883874383816, 'rho': 1.6122041967954261, 'mu': 4.109856677709496, 'nu': 0.6463121653495464}
+Total training relative RMSE: 1.4086657428409355
+===== Training step 87 =====
+Parameters: {'lambd': 2.0841554727403926, 'rho': 1.6016750238202284, 'mu': 2.86828456749259, 'nu': 0.727078647996069}
+Total training relative RMSE: 1.5338733762523158
+===== Training step 88 =====
+Parameters: {'lambd': 2.2387559582434373, 'rho': 2.2158618545730393, 'mu': 3.0117593185788, 'nu': 0.6869758748541334}
+Total training relative RMSE: 1.6384888588788622
+===== Training step 89 =====
+Parameters: {'lambd': 0.4415869915476312, 'rho': 5.029226951278671, 'mu': 7.062194981785642, 'nu': 0.5066939724228327}
+Total training relative RMSE: 1.6580962948632731
+===== Training step 90 =====
+Parameters: {'lambd': 1.6660939741760086, 'rho': 1.8643357331690005, 'mu': 4.143145442679863, 'nu': 0.7639293798096926}
+Total training relative RMSE: 2.0288057010480975
+===== Training step 91 =====
+Parameters: {'lambd': 1.8419586726542594, 'rho': 1.6458613101914756, 'mu': 4.034420137758101, 'nu': 0.721647173368959}
+Total training relative RMSE: 1.6215293788741671
+===== Training step 92 =====
+Parameters: {'lambd': 1.880207101454882, 'rho': 1.3511440677170008, 'mu': 3.478839679213957, 'nu': 0.554764464868034}
+Total training relative RMSE: 2.059499827569993
+===== Training step 93 =====
+Parameters: {'lambd': 1.144615470766477, 'rho': 1.6466304238714626, 'mu': 2.4737439757935857, 'nu': 0.8347814237989372}
+Total training relative RMSE: 1.6125851174012409
+===== Training step 94 =====
+Parameters: {'lambd': 2.2193086556141033, 'rho': 1.0316647954712046, 'mu': 2.2951371954592417, 'nu': 0.8400454661265945}
+Total training relative RMSE: 1.5761075851118116
+===== Training step 95 =====
+Parameters: {'lambd': 1.27946432403954, 'rho': 2.0586562671547797, 'mu': 2.5954456308332325, 'nu': 0.8777352455722732}
+Total training relative RMSE: 2.1747478091947485
+===== Training step 96 =====
+Parameters: {'lambd': 0.3693394989513988, 'rho': 0.9382576296322367, 'mu': 3.186722864401634, 'nu': 0.8134605010475672}
+Total training relative RMSE: 1.9372396709136706
+===== Training step 97 =====
+Parameters: {'lambd': 6.392779026620124, 'rho': 2.034388190593485, 'mu': 2.5346228357156635, 'nu': 0.8277415249747712}
+Total training relative RMSE: 1.5354130789369496
+===== Training step 98 =====
+Parameters: {'lambd': 0.943638080751318, 'rho': 5.160423249427675, 'mu': 6.833840231727455, 'nu': 0.4003995261266092}
+Total training relative RMSE: 1.6959234699246513
+===== Training step 99 =====
+Parameters: {'lambd': 1.7373043727746464, 'rho': 2.3596571507995527, 'mu': 6.822339374023308, 'nu': 0.496851962605407}
+Total training relative RMSE: 1.5383604753577398
+===== Training step 100 =====
+Parameters: {'lambd': 1.5709241678664823, 'rho': 3.2825126697123435, 'mu': 7.1429383446634365, 'nu': 0.24862138266203543}
+Total training relative RMSE: 1.7120283797334015
+
+
+Best training relative RMSE: 1.3971
+Best training parameters: [1.3410675920616446, 3.6551889406259725, 4.365610244806947, 0.6326064862685089]

@@ -1,0 +1,9 @@
+Best parameters for the L1 model with positive symmetric coefficients:
+lambda = 1.341
+rho    = 3.655
+mu     = 4.366
+nu     = 0.633
+ 
+Average relative RMSE for the template  T = 0.07325702541539571 +/- 0.023967939807779164
+Average relative RMSE for the deviations V = 0.29734376612942015 +/- 0.01102091513453103
+Average relative RMSE for the deviations V estimated by A_i-T = 0.6652519010012492 +/- 0.03429268927427779

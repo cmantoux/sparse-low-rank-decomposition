@@ -1,0 +1,5 @@
+Best parameters for T^M with positive symmetric coefficients:
+lambda = 1.457
+rho    = 0.832
+
+Average relative RMSE for the template  T = 0.549900641809125 +/- 0.2175595460107763

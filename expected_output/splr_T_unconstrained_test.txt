@@ -1,0 +1,5 @@
+Best parameters for T^M:
+lambda = 0.421
+rho    = 0.955
+
+Average relative RMSE for the template  T = 0.41883276928529406 +/- 0.07904556193169283

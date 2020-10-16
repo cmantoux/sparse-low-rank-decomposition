@@ -1,0 +1,2 @@
+Average relative RMSE between the mean sample and the template: 0.5521365989560334 +/- 0.10439505783573445
+Average relative RMSE between A_i-M and V_i: 0.9131252008736439 +/- 0.05235675973929001

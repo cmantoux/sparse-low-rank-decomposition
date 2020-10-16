@@ -1,0 +1,5 @@
+Best parameters for V^M with positive symmetric coefficients:
+mu    = 2.233
+nu    = 0.668
+
+Average relative RMSE for the deviations V = 0.5533979667065899 +/- 0.02020962333412329

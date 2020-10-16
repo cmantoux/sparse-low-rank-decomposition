@@ -1,0 +1,9 @@
+Best parameters for the L1 model with unconstrained sign:
+lambda = 3.805
+rho    = 1.309
+mu     = 2.837
+nu     = 0.828
+ 
+Average relative RMSE for the template  T = 0.04133995878827177 +/- 0.008558542642404283
+Average relative RMSE for the deviations V = 0.3266093659940337 +/- 0.015566438841762733
+Average relative RMSE for the deviations V estimated by A_i-T = 0.9021283261784283 +/- 0.05804264176885076

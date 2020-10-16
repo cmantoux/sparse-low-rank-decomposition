@@ -1,0 +1,11 @@
+Average relative RMSE for charpath_samples: 0.4870925793993747 +/- 0.07315795260230748
+Average relative RMSE for charpath_dr:      0.15335399094635555 +/- 0.0731672022351808
+Average relative RMSE for charpath_TM_VM:   0.28949204831375913 +/- 0.0829938318911412
+
+Average relative RMSE for clustering_samples: 0.08742561453312073 +/- 0.02121325147613666
+Average relative RMSE for clustering_dr:      0.025318087583208432 +/- 0.012640092308029276
+Average relative RMSE for clustering_TM_VM:   0.3519133521693363 +/- 0.034539810338316025
+
+Average relative RMSE for degree_samples: 0.2676880885471624 +/- 0.08624394984296427
+Average relative RMSE for degree_dr:      0.00878916065261721 +/- 0.007213081726651227
+Average relative RMSE for degree_TM_VM:   0.08976522777682744 +/- 0.03742942015156683
