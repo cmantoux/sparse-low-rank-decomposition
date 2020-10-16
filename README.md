@@ -86,7 +86,7 @@ model = dr.SparseLowRank(lambd=..., rho=..., mu=..., nu=..., theta=0.9, tau=0.1,
 model.fit(samples)
 ```
 
-The estimated template can be found in `model_L1.T`, and the list of deviations (with shape `(n_samples,n,n)`) in `model_L1.Vs`. These estimates are the low-rank version of the solution (denoted T_\* and V_\* in the paper). For the sparse version (T_1 and V_1), use `model_L1.S` and `model_L1.Ws` instead.
+The estimated template can be found in `model.T`, and the list of deviations (with shape `(n_samples,n,n)`) in `model.Vs`. These estimates are the low-rank version of the solution (denoted T_\* and V_\* in the paper). For the sparse version (T_1 and V_1), use `model.S` and `model.Ws` instead.
 
 ## Data source
 
