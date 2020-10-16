@@ -1,5 +1,7 @@
 # Sparse Low-Rank Decomposition for Graph Data Sets
 
+This repository contains the code for the paper of the same name. The main function is to decompose graphs in a data set into a common sparse, low-rank template and sparse low-rank deviations from it.
+
 ## Requirements
 
 The code was tested on Python 3.6, 3.7 and 3.8, and requires a version greater or equal to 3.4. In order to run the code, you need the Python packages NumPy, NetworkX, scikit-optimize and tqdm. They can be installed with `conda`:
@@ -11,7 +13,7 @@ pip install pybind11
 pip install cpalgorithm
 ```
 
-The running times reported here were measured on a 2,9 GHz Intel Core i5 double core processor.
+The running times reported were measured on a 2,9 GHz Intel Core i5 double core processor.
 
 ## Experiments on simulated data
 
@@ -53,15 +55,15 @@ In the case of matrices with positive symmetric coefficients, we also compute th
 
 In this table, each case shows the average relative RMSE for the given quantity, as well as a standard deviation of the error over the 5 test data sets.
 
-|                    |     | SPLRD (L1) | (TM, VM)  | (M,A-M)   |
-| ------------------ | --- | ---------- | --------- | --------- |
-| Unconstrained sign | T   | .04 (.01)  | .42 (.08) | .55 (.10) |
-|                    | V   | .33 (.02)  | .49 (.02) | .91 (.05) |
-| Positive symmetric | T   | .07 (.02)  | .55 (.22) | .64 (.27) |
-|                    | V   | .30 (.01)  | .55 (.02) | .77 (.03) |
-| Graph features     | d   | .01 (.01)  | .09 (.04) | .27 (.09) |
-|                    | L   | .15 (.07)  | .29 (.08) | .49 (.07) |
-|                    | C   | .03 (.01)  | .35 (.03) | .09 (.02) |
+|                    |     | SPLRD     | (TM, VM)  | (M,A-M)   |
+| ------------------ | --- | --------- | --------- | --------- |
+| Unconstrained sign | T   | .04 (.01) | .42 (.08) | .55 (.10) |
+|                    | V   | .33 (.02) | .49 (.02) | .91 (.05) |
+| Positive symmetric | T   | .07 (.02) | .55 (.22) | .64 (.27) |
+|                    | V   | .30 (.01) | .55 (.02) | .77 (.03) |
+| Graph features     | d   | .01 (.01) | .09 (.04) | .27 (.09) |
+|                    | L   | .15 (.07) | .29 (.08) | .49 (.07) |
+|                    | C   | .03 (.01) | .35 (.03) | .09 (.02) |
 
 ## Experiments on a real data set
 
@@ -85,8 +87,6 @@ model.fit(samples)
 ```
 
 The estimated template can be found in `model_L1.T`, and the list of deviations (with shape `(n_samples,n,n)`) in `model_L1.Vs`. These estimates are the low-rank version of the solution (denoted T_\* and V_\* in the paper). For the sparse version (T_1 and V_1), use `model_L1.S` and `model_L1.Ws` instead.
-
-Comparisons with the
 
 ## Data source
 
